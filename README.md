@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 WheelsAndDeals 🚗💥
 Welcome to WheelsAndDeals, your ultimate platform for buying and selling both new and pre-owned cars. Whether you're on the hunt for the latest model or looking for a classic ride, this project brings car enthusiasts, buyers, and sellers together for seamless transactions.
 
@@ -17,3 +18,7 @@ Backend: Node.js and Express.js for building a robust backend API.
 Real-Time Communication: Socket.io for enabling live chat and instant notifications.
 
 Database: MongoDB for fast, scalable data storage and management.
+=======
+# Shrinkr
+A modern URL shortener app built with React.js, Tailwind CSS, Supabase, and Shadcn UI. It features Supabase authentication, QR code generation, and click analytics with device/browser tracking using UA Parser JS and Recharts.
+>>>>>>> 15507cbc4be970e372ce6e904c8b453ddb053da2
